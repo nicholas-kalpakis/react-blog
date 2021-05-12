@@ -1,5 +1,6 @@
 import classes from './nav.module.css'
 import Link from 'next/link'
+
 const Nav = () => {
 	const navTitle = 'Nicholas Kalpakis'
 	return (
