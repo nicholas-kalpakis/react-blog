@@ -1,0 +1,16 @@
+.nav {
+	height: 70px;
+	background-color: black;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.title {
+	font-size: 24px;
+}
+
+.subTitle {
+	font-size: 20px;
+}
