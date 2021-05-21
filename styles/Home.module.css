@@ -1,6 +1,11 @@
 .intro {
+<<<<<<< Updated upstream
 	font-size: 38px;
 	background-color: rgb(238, 233, 233);
+=======
+	font-size: 32px;
+	background-color:rgb(250, 250, 249);
+>>>>>>> Stashed changes
 	display: flex;
 	justify-content: center;
 	padding: 30px;
@@ -10,14 +15,15 @@
 
 .introContainer {
 	margin-top: 100px;
-	margin-left: 500px;
-	margin-right: 500px;
+	margin-left: 600px;
+	margin-right: 600px;
 }
 
 .social {
 	display: flex;
 	justify-content: center;
 	margin-top: 60px;
+
 }
 
 .socialIcon {

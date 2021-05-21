@@ -6,7 +6,6 @@ import Nav from '../components/nav/nav'
 export default function Index() {
   return (
   		<Fragment>
-			<Nav/>
 			<div class={styles.social}>
 				<div class={styles.socialIcon}><a href="https://www.facebook.com/kalpakis1"><Image class={styles.socialIcon} width="48" height="48" src="/f_logo_RGB-Blue_100.png"/></a></div>
 				<div class={styles.socialIcon}><a href="https://www.instagram.com/nick_kalpakis/"><Image class={styles.socialIcon} width="48" height="48" src="/glyph-logo_May2016.png"/></a></div>
